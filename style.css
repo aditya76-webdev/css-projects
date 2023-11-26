@@ -234,6 +234,11 @@ a{
   z-index:-9;
 }
 
+/* The `@keyframes` rule is used in CSS animations to define the behavior of an animation over a set of
+keyframes. It allows you to specify the styles that an element should have at specific points in
+time during the animation. By defining keyframes at different percentages of the animation duration,
+you can create complex animations with different styles and transitions. The animation is then
+applied to an element using the `animation-name` property. */
 @keyframes scaleImage {
 
   0%{
